@@ -1,3 +1,9 @@
+commit 59fa04f951d9201e2636e755c58574ce5acc7663
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Sep 18 12:49:52 2015 -0500
+
+    Eliminamos Epcys y Nova Meats
+
 commit 95e80e9e73376dee7a94ffc7bbbb9582261e12de
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Fri Sep 18 12:20:21 2015 -0500
